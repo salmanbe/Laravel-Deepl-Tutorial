@@ -3,7 +3,7 @@
 
 ## Laravel Deepl Tutorial
 
-This is the source code of Laravel deepl integration video tutorial available on youtube. This tutorial uses Laravel, Salmanbe laravel-deepl plugin, bootstrap 5, Jquery and html5.
+This is the source code of Laravel deepl integration video tutorial available on youtube. This tutorial use Laravel, Salmanbe laravel-deepl plugin, bootstrap 5, Jquery and html5.
 
 [![Laravel Deepl](https://img.youtube.com/vi/ljoFvgCS2og/0.jpg)](https://www.youtube.com/watch?v=ljoFvgCS2og)
 
